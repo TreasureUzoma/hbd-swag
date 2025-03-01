@@ -40,14 +40,13 @@ Follow these steps to set up the project locally:
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/samueltuoyo15/happy-birthday.git
-    cd happy-birthday
+    git clone https://github.com/TreasureUzoma/hbd-swag.git
     ```
 
 2.  **Navigate to the project directory:**
 
     ```bash
-    cd happy-birthday
+    cd hbd-swag
     ```
 
 3.  **Install Dependencies (Optional):**
